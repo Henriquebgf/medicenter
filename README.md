@@ -3,5 +3,4 @@
 
 
   ![medicenter](https://github.com/Henriquebgf/medicenter/blob/main/Projeto-Unes.gif)
-  ![medicenter](https://github.com/Henriquebgf/medicenter/blob/main/Projeto-Unes.gif)
-<
+
